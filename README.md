@@ -84,20 +84,17 @@ Browser-based 3D racing game with custom physics.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-smoky-six.vercel.app/api?username=universallord007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-smoky-six.vercel.app/api/top-langs/?username=universallord007&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/universallord007?label=Followers&style=for-the-badge&color=00c6ff&logo=github" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/universallord007&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=0f2027&logo=github" />
+  <img src="https://img.shields.io/github/stars/universallord007?affiliations=OWNER&style=for-the-badge&color=2c5364&logo=github" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=universallord007&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/universallord007/universallord007/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://komarev.com/ghpvc/?username=universallord007&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
 </p>
 
 <p align="center"><i>Loves to code ... I guess that's it !!!</i></p>
