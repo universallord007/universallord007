@@ -1,8 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Dipankar%20Dutta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Developer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=18" />
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+apps;React+%7C+Next.js+%7C+Node.js+%7C+Python;Prompt+Engineering+%26+LLM+Integration;Second-Year+B.Tech+%40+NIT+Sikkim" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+apps;React+%7C+Next.js+%7C+Node.js+%7C+Python;Prompt+Engineering+%26+LLM+Integration;First-Year+B.Tech+%40+NIT+Sikkim" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Second-year B.Tech (Civil Engineering) student at **NIT Sikkim**, self-teaching AI/ML & full-stack dev in parallel
+- 🎓 First-year B.Tech (Civil Engineering) student at **NIT Sikkim**, self-teaching AI/ML & full-stack dev in parallel
 - 🧠 Working with **LLM APIs (Groq, OpenAI)**, prompt engineering, and AI evaluation
 - 💼 AI Model Evaluator & Data Annotator — Alignerr, Outlier, Mindrift-style platforms (RLHF-style training)
 - 🌱 Currently upskilling in **PyTorch, ML, and AI agent architectures**
@@ -85,19 +84,13 @@ Browser-based 3D racing game with custom physics.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=universallord007&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=universallord007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=universallord007&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=universallord007&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=universallord007&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=universallord007&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ---
 
