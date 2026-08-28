@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 First-year B.Tech (Civil Engineering) student at **NIT Sikkim**, self-teaching AI/ML & full-stack dev in parallel
+- 🎓 Second-year B.Tech (Civil Engineering) student at **NIT Sikkim**, self-teaching AI/ML & full-stack dev in parallel
 - 🧠 Working with **LLM APIs (Groq, OpenAI)**, prompt engineering, and AI evaluation
 - 💼 AI Model Evaluator & Data Annotator — Alignerr, Outlier, Mindrift-style platforms (RLHF-style training)
 - 🌱 Currently upskilling in **PyTorch, ML, and AI agent architectures**
